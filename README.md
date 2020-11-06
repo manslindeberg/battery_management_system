@@ -1,2 +1,4 @@
-# bms
-Source code for a costum designed BMS used in FSAE.
+# BMS - FSEA
+
+## Introduction 
+The evolution of the electric vehicle industry have excelled rapidly the last decade.  Intensive research on cell chemistries, accumulator container assemblies and electric motortechnologies  have  given  the  birth  of  Battery  Management  Systems(BMS)as  we  knowthem today.  Even though the field is quite young, researchers and industries are trying to find secure and reliable systems with the use of software and complex algorithms that can identify dangerous states in the battery container before an accident occurs.  This is primarily done with embedded software that, together with sensors-data, can ensure a safe operation of an electrical drive-train.  The main objective of the BMS is in other words to protect a battery container both short-term, that is; ensure safe current, voltage and temperature  values,  and  long-term  with  cell-balancing  mechanisms  that  ensures  longer life-time.  The long-term perspective is important since a battery pack is considered to be consumed in vehicle application when the state-of-health is between 70%-80%.  A BMS that ensures safe and sustainable pre-and discharges could therefore improve the life-time,which in turn helps to cut negative environmental effects that battery-production cause.
